@@ -1,3 +1,9 @@
+2017-02-22  John Augustine
+	* Version 0.3.1 released
+	* Updated Debian dependencies in debian/control
+	* Fixed build errors in mainwindow.cc
+	* Fixed linker errors in Makefile.in
+
 2006-02-25  John Augustine & Francois Lesueur
 	* Version 0.3 released
 	* Changed general text outputs for english fluency
