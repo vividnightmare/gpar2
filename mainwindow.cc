@@ -1,7 +1,7 @@
 #include "mainwindow.h"
 #include <libintl.h>
 
-Glib::ustring version = "0.3";
+Glib::ustring version = "0.3.2";
 
 using namespace Glib;
 
